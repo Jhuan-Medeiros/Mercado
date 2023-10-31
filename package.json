@@ -1,0 +1,25 @@
+{
+  "name": "mercado",
+  "version": "1.0.0",
+  "description": "procura a melhor rota em um mercado de matriz",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhuan-Medeiros/Mercado.git"
+  },
+  "author": "Jhuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhuan-Medeiros/Mercado/issues"
+  },
+  "homepage": "https://github.com/Jhuan-Medeiros/Mercado#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.1"
+  }
+}
